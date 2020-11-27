@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android\shared\src\androidMain\AndroidManifest.xml:2:1-108
+INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml:2:1-108
+INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml:2:1-108
+	package
+		ADDED from G:\Android\shared\src\androidMain\AndroidManifest.xml:2:70-106
+		INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+		INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android\shared\src\androidMain\AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+		ADDED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+		INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+		ADDED from G:\Android\shared\src\androidMain\AndroidManifest.xml
+		INJECTED from G:\Android\shared\src\androidMain\AndroidManifest.xml

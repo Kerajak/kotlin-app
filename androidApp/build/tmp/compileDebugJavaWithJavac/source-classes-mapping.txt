@@ -1,0 +1,2 @@
+ir/kerajakdev/test1/androidApp/BuildConfig.java
+ ir.kerajakdev.test1.androidApp.BuildConfig

@@ -1,0 +1,2 @@
+ir/kerajakdev/test1/shared/BuildConfig.java
+ ir.kerajakdev.test1.shared.BuildConfig
